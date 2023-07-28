@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "polish-notation"
+name = "reverse-polish-notation"
 version = "0.1.0"
